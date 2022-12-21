@@ -4,7 +4,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo_slug| "https://github.com/#{repo_slug}" }
 
-gem 'rails', '~> 4.2.10'
+gem 'rails', '~> 4.2.11', '>= 4.2.11.1'
 gem 'websocket-rails', github: 'moaa/websocket-rails', branch: 'sync_fixes'
 
 gem 'rails-i18n', '~> 4.0.9'
