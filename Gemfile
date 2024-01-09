@@ -8,7 +8,7 @@ gem 'rails', '~> 4.2.10'
 gem 'websocket-rails', github: 'moaa/websocket-rails', branch: 'sync_fixes'
 
 gem 'rails-i18n', '~> 4.0.9'
-gem 'puma', '~> 3.11.4'
+gem 'puma', '~> 5.6.8'
 gem 'mysql2', '~> 0.4.10'
 gem 'redis-rails', '~> 5.0.2'
 
